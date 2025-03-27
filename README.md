@@ -6,7 +6,7 @@ The project analyzes water quality and infrastructural enhancements in the hypot
 
 Through SQL, I executed operations to join and filter data across multiple relational tables, enabling me to pinpoint problematic water sources, monitor project progress effectively, and facilitate infrastructure improvements. The analysis helps track performance metrics and supports data-driven decision-making for sustainable water management in Maji Ndogo.
 
-![project overview](./Images/Maji_Ndogo.JPG)
+![Project_Overview](./Images/Maji_Ndogo.JPG)
 
 ## Project overview:
 
