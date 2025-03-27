@@ -2,11 +2,11 @@
 
 **Introduction**
 
-The project pertains to analyzing water quality and infrastructural enhancements in the hypothetical country of Maji Ndogo. A thorough analysis was conducted utilizing the SQL technique to identify discrepancies within the dataset. The project emphasizes the examination of water source visits, the enhancement of water sources, and the evaluation of employee performance related to these sources across various geographical locations.
+The project analyzes water quality and infrastructural enhancements in the hypothetical country of Maji Ndogo. A thorough analysis was conducted using the SQL technique to identify data discrepancies. The project emphasizes the examination of water source visits, the enhancement of water sources, and the evaluation of employee performance related to these sources across various geographical locations.
 
 Through SQL, I executed operations to join and filter data across multiple relational tables, enabling me to pinpoint problematic water sources, monitor project progress effectively, and facilitate infrastructure improvements. The analysis helps track performance metrics and supports data-driven decision-making for sustainable water management in Maji Ndogo.
 
-[project overview](/Images/Maji_Ndogo.JPG)
+![](/Images/Maji_Ndogo.JPG)
 
 ## Project overview:
 
